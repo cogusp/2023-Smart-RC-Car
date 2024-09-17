@@ -1,7 +1,7 @@
 <div>
   <!-- Title -->
   <div align='center'>
-    <h1>심박수를 활용한 맞춤형 VR 반응형 콘텐츠 (Customized VR game contents utilizing heart rate)</h1>
+    <h1> 나는야 폭주RC카 </h1>
   </div>
 
   <br>
@@ -13,63 +13,28 @@
 
   <!-- Tools -->
   <h2> Tools </h2>
-  <br>
-  <div>
-    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>&nbsp&nbsp
-  </div>
+  <h3> 🛠️ MIT App Inventor (https://appinventor.mit.edu/) </h3>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white"/>&nbsp&nbsp
   
   <br>
 
   <!-- Devices -->
   <h2> Devices </h2>
-  <h3> 📱 Galaxy A3 </h3>
+  <h3> 📱 Samsung Galaxy A3 </h3>
   
   <br>
 
   <!-- Application -->
   <h2> Controller Application </h2>
-  <br>
-  <img src="https://github.com/lbd0/HeartRate_WatchApp/assets/80818640/ff95a3b7-a943-4cc9-a96f-42e2372cf7dc">
-  <h3> 📱 Health Services API 사용 </h3>
+  <h3> 🔗 Download (https://github.com/cogusp/2023-Smart-RC-Car/blob/main/SmartRCCar.apk) </h3>
   
   <br>
-
-  <!-- Awards -->
-  <h2> Awards </h2>
-  <div align="center">
-    <br>
-    <h3> 🏅 2023 1학기 SW 캡스톤 디자인 경진대회 장려상 수상 </h3>
-    <img src="https://github.com/user-attachments/assets/27576e5c-6914-4c59-ae32-a6c5386ef6a0"/>
-    <br><br>
-    <h3> 🏅 2023한국컴퓨터그래픽스학회 우수학부포스터상 수상 </h3>
-    <img src="https://github.com/user-attachments/assets/5e0642a7-a35f-4dfb-8114-b54f493860f1"/>
-    <img src="https://github.com/user-attachments/assets/2b1b85f1-904e-40dd-bc95-f728f0bf3e55"/>
-  </div>
-  
-  <br><br>
 
   <!-- Result Presentation -->
   <h2> Result </h2>
   <br>
   <div align="center">
-    <img src="https://github.com/user-attachments/assets/3c79ba15-3a90-450d-aff4-2fbebbdefad4"/>
-    <img src="https://github.com/user-attachments/assets/b32b1d81-6c6b-49f8-862d-303113f937f5"/>
-    <img src="https://github.com/user-attachments/assets/5edfe9d6-c32a-4646-b255-187186da4ce9"/>
-    <img src="https://github.com/user-attachments/assets/5c6fd051-7fe8-40bb-a6de-faeaf74d24b9"/>
-    <img src="https://github.com/user-attachments/assets/056faac2-8048-4e16-a117-14e48a9a2290"/>
-    <img src="https://github.com/user-attachments/assets/d8a6c592-f929-42a8-bf68-cfb750a667fa"/>
-    <img src="https://github.com/user-attachments/assets/a7c02bd8-0845-4ef6-93d9-725aea10c14c"/>
-    <img src="https://github.com/user-attachments/assets/d3d59558-6a97-42af-8674-0c45f6fd1639"/>
-    <img src="https://github.com/user-attachments/assets/41f547f7-5166-4366-aa61-1b14fcca5511"/>
-    <img src="https://github.com/user-attachments/assets/e5a50bee-e8f1-4cb7-a965-74c3d12ee172"/>
-    <img src="https://github.com/user-attachments/assets/7cfb2b72-275c-4ec7-924f-37202b23baff"/>
-    <img src="https://github.com/user-attachments/assets/9b8a07ce-1cbf-4bf6-b15b-04ed9f898e48"/>
-    <img src="https://github.com/user-attachments/assets/51d9ce6a-2401-40e0-ad83-d579ed1cfef3"/>
-    <img src="https://github.com/user-attachments/assets/abc97749-5916-4834-8b9a-9797a7328f98"/>
-    <img src="https://github.com/user-attachments/assets/cf189aac-1e11-4ca7-8acb-89967ab68738"/>
-    <img src="https://github.com/user-attachments/assets/84f41aa6-d35f-4ed5-8956-f65e73597fae"/>
-    <img src="https://github.com/user-attachments/assets/4a09c09b-1b56-4794-91ba-f64bfe8d90a2"/>
-    <img src="https://github.com/user-attachments/assets/0833ef66-8f1a-4583-8bad-8ec3b474ae2a"/>
-    <img src="https://github.com/user-attachments/assets/0562ed08-130e-4abf-814f-c6420394b6f1"/>
-    
-  </div>
+    <h3> 🖼️ SW 학술동아리 C.愛.랑 소프트웨어 전시회 참가 </h3>
+    <img src="https://github.com/user-attachments/assets/0de331cf-7821-4b17-ae1a-8daae16c6639"/>
+    <img src="https://github.com/user-attachments/assets/8dc2bf24-1a02-45ae-adbd-dc1c58b15b14"/>
+</div>
